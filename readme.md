@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Micaela Jofre</h1>
-<h3 align="center">Una apasionada desarrolladora web jr de argentina</h3>
+<h3 align="center">Una apasionada desarrolladora web jr de ARGENTINA</h3>
 
 - 🌱 Actualmente estoy aprendiendo **php* *
 
