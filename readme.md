@@ -1,7 +1,7 @@
 <h1 align="center">Hola 👋, soy Micaela Jofre</h1>
 <h3 align="center">Una apasionada desarrolladora web jr de ARGENTINA</h3>
 
-- 🌱 Actualmente estoy aprendiendo **php* *
+- 🌱 Actualmente estoy aprendiendo **php y React.js* *
 
 - 💬 Pregúntame sobre **html, css, javascript, react.js**
 
