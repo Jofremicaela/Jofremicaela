@@ -16,10 +16,10 @@
 
 <h3 align="left">Lenguajes y herramientas:</h3>
 
-Html / Css
-python
-Javascript
-React.js
+Html / Css <br>
+python<br>
+Javascript<br>
+React.js<br>
 sql 
 mysql
 Php
