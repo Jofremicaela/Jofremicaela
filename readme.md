@@ -3,7 +3,7 @@
 
 - 🌱 Actualmente estoy aprendiendo **Python* *
 
-- 💬 Pregúntame sobre **html, css, javascript, react.js, Php**
+- 💬 Pregúntame sobre **html, css, javascript, React , Php**
 
 - 📫 Cómo contactarme **micaelajofre1994@gmail.com**
 
