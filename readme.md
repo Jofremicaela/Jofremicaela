@@ -20,9 +20,10 @@ Html / Css <br>
 python<br>
 Javascript<br>
 React.js<br>
-sql 
-mysql
-Php
-phpMy Admin
-Adobe photoshop
-Metodologias Agiles
+sql <br>
+mysql <br>
+Node.js<br>
+Php <br>
+phpMy Admin <br>
+Adobe photoshop <br>
+Metodologias Agiles <br>
