@@ -25,5 +25,4 @@ mysql <br>
 Node.js<br>
 Php <br>
 phpMy Admin <br>
-Adobe photoshop <br>
-Metodologias Agiles <br>
+
