@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, soy Micaela Jofre</h1>
 <h3 align="center">Una apasionada desarrolladora web junior </h3>
 
-- 🌱 Actualmente estoy aprendiendo **Python* *
+- 🌱 Actualmente estoy aprendiendo **testing QA con Selenium y Python* *
 
-- 💬 Pregúntame sobre **html, css, javascript, React , Php**
+- 💬 Pregúntame sobre **html, css, javascript, React , python**
 
 - 📫 Cómo contactarme **micaelajofre1994@gmail.com**
 
@@ -20,6 +20,7 @@ Html / Css <br>
 python<br>
 Javascript<br>
 React.js<br>
+Selenium<br>
 sql <br>
 mysql <br>
 Node.js<br>
