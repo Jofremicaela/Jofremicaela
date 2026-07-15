@@ -1,5 +1,5 @@
 <h1 align="center">Hola 👋, soy Micaela Jofre</h1>
-<h3 align="center">Una apasionada desarrolladora web junior </h3>
+<h3 align="center">Una futura Ingeniera en Sistemas Informàticos </h3>
 
 - 🌱 Actualmente estoy aprendiendo **testing QA con Selenium y Python* *
 
