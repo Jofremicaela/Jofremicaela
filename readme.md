@@ -3,13 +3,14 @@
 
 - 🌱 Actualmente estoy aprendiendo **testing QA con Selenium y Python* *
 
-- 💬 Pregúntame sobre **html, css, javascript, React , python**
 
-- 📫 Cómo contactarme **micaelajofre1994@gmail.com**
+   
+<h3 align="left">Conéctate conmigo:</h3>
+
+- 📫 Cómo contactarme :  **(https://www.linkedin.com/in/jofremicaela-developer/)**
 
 - 📄 Conoce mis experiencias [github.com/Jofremicaela]
 
-<h3 align="left">Conéctate conmigo:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/jofremicaela-developer" target=" blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jofremicaela-desarrollador" height="30" width="40" /></a>
 </p>
