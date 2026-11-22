@@ -1,13 +1,12 @@
 <h1 align="center">Hola 👋, soy Micaela Jofre</h1>
+
 <h3 align="center">Una futura Ingeniera en Sistemas Informàticos </h3>
 
-* * - 🌱 Actualmente me desempeño en el rol de Tester dentro de un equipo interdisciplinario Para InnovaLab que reune perfiles de UX/UI, Data Analytics, Frontend, Backend y QA. Estamos trabajando en el desarrollo de una Calculadora Inteligente de Costos, Precios y Punto de Equilibrio, una solución digital que busca aportar valor en el ámbito de emprendedurismo. * *
+* *   🌱 Actualmente me desempeño en el rol de Tester dentro de un equipo interdisciplinario Para InnovaLab que reune perfiles de UX/UI, Data Analytics, Frontend, Backend y QA. Estamos trabajando en el desarrollo de una Calculadora Inteligente de Costos, Precios y Punto de Equilibrio, una solución digital que busca aportar valor en el ámbito de emprendedurismo.  * *
+🚀🚀🚀🚀🚀🚀
 
 
-   
-<h3 align="left">Conéctate conmigo </h3>
-
-- 📫 Cómo contactarme :
+📫 Cómo contactarme :
 - <p align="left">
 <a href="https://linkedin.com/in/jofremicaela-developer" target=" blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jofremicaela-desarrollador" height="30" width="40" /></a>
 </p>
